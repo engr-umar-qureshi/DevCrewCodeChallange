@@ -38,9 +38,7 @@ Are there any special cases when you absolutely have to use or should use
 Fragments?
 
 Answer: 
-        Yes we can make entire app without using Fragments, We use fragments because they make it easier for developers to write 
-applications that can scale across a variety of screen sizes Hence increase the reusability. No unless we use such View which requires 
-fragment itself like viewpager.
+        Yes we can make entire app without using Fragments, We use fragments because they make it easier for developers to write applications that can scale across a variety of screen sizes Hence increase the reusability. No unless we use such View which requires fragment itself like viewpager.
  
 
 6. What makes an AsyncTask such an annoyance to Android developers? Detail
